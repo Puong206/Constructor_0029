@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrStatik", "mbrStatik\mbrS
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrStatikFunction", "mbrStatikFunction\mbrStatikFunction.vcxproj", "{B8E8E3FF-137B-4E6B-A47A-A8AFF3FF6595}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Construktor", "Construktor\Construktor.vcxproj", "{7B9C6C73-ECA9-4694-9700-6C5723B6151B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B8E8E3FF-137B-4E6B-A47A-A8AFF3FF6595}.Release|x64.Build.0 = Release|x64
 		{B8E8E3FF-137B-4E6B-A47A-A8AFF3FF6595}.Release|x86.ActiveCfg = Release|Win32
 		{B8E8E3FF-137B-4E6B-A47A-A8AFF3FF6595}.Release|x86.Build.0 = Release|Win32
+		{7B9C6C73-ECA9-4694-9700-6C5723B6151B}.Debug|x64.ActiveCfg = Debug|x64
+		{7B9C6C73-ECA9-4694-9700-6C5723B6151B}.Debug|x64.Build.0 = Debug|x64
+		{7B9C6C73-ECA9-4694-9700-6C5723B6151B}.Debug|x86.ActiveCfg = Debug|Win32
+		{7B9C6C73-ECA9-4694-9700-6C5723B6151B}.Debug|x86.Build.0 = Debug|Win32
+		{7B9C6C73-ECA9-4694-9700-6C5723B6151B}.Release|x64.ActiveCfg = Release|x64
+		{7B9C6C73-ECA9-4694-9700-6C5723B6151B}.Release|x64.Build.0 = Release|x64
+		{7B9C6C73-ECA9-4694-9700-6C5723B6151B}.Release|x86.ActiveCfg = Release|Win32
+		{7B9C6C73-ECA9-4694-9700-6C5723B6151B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
