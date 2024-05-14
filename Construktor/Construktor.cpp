@@ -13,5 +13,9 @@ public:
 	{
 		nim = 0;
 		nama = " ";
-	}
+	};
+	Mahasiswa(int iNim)
+	{
+		nim = iNim;
+	};
 };
