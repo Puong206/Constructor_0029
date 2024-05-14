@@ -21,5 +21,5 @@ public:
 	Mahasiswa(string iNama)
 	{
 		nama = iNama;
-	}
+	};
 };
