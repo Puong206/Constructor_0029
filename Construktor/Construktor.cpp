@@ -22,7 +22,7 @@ public:
 	{
 		nama = iNama;
 	};
-	Mahasiswa(int iNim; string iNama)
+	Mahasiswa(int iNim, string iNama)
 	{
 		nim = iNim;
 		nama = iNama;
